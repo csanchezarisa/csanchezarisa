@@ -21,7 +21,7 @@
 	</a>
   	&emsp;
    	<a href="https://www.python.org" target="_blank">
-    		<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=white">
+    		<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffdd54">
   	</a>
   	&emsp;
    	<a href="https://www.typescriptlang.org/" target="_blank">
@@ -63,9 +63,13 @@
    	<a href="https://expressjs.com/" target="_blank">
     		<img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=flat&logo=express&logoColor=white">
   	</a>
+  	&emsp;
+   	<a href="https://maven.apache.org/" target="_blank">
+    		<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=Apache%20Maven&logoColor=white">
+  	</a>
 </p>
 
-### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20"> Frameworks and libraries
+### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20"> Frontend frameworks and libraries
 
 <p align="center">
    	<a href="https://angular.io/" target="_blank">
@@ -81,13 +85,57 @@
   	</a>
 </p>
 
+### <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="20"> Software and tools
+
+<p align="center">
+	<a href="https://git-scm.com/" target="_blank">
+    		<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white">
+  	</a>
+	&emsp;
+ 	<a href="https://github.com/" target="_blank">
+    		<img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?style=flat&logo=github&logoColor=white">
+  	</a>
+	&emsp;
+   	<a href="https://about.gitlab.com/" target="_blank">
+    		<img alt="GitLab" src="https://img.shields.io/badge/GitLab%20-%23181717.svg?style=flat&logo=gitlab&logoColor=white">
+  	</a>
+	&emsp;
+   	<a href="https://www.markdownguide.org/" target="_blank">
+    		<img alt="Markdown" src="https://img.shields.io/badge/Markdown%20-%23000000.svg?style=flat&logo=markdown&logoColor=white">
+  	</a>
+	&emsp;
+   	<a href="https://www.docker.com/" target="_blank">
+    		<img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
+  	</a>
+	&emsp;
+   	<a href="https://swagger.io/" target="_blank">
+    		<img alt="Swagger" src="https://img.shields.io/badge/Swagger%20-%23Clojure.svg?style=flat&logo=swagger&logoColor=white">
+  	</a>
+	&emsp;
+   	<a href="https://swagger.io/" target="_blank">
+    		<img alt="Vagrant" src="https://img.shields.io/badge/Vagrant%20-%231563FF.svg?style=flat&logo=vagrant&logoColor=white">
+  	</a>
+	&emsp;
+   	<a href="https://nodejs.org/" target="_blank">
+    		<img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white">
+  	</a>
+	&emsp;
+   	<a href="https://swagger.io/" target="_blank">
+    		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white">
+  	</a>
+</p>
+
 
 ## <img src="https://media.giphy.com/media/RlwnePSV0sdjC5pLoJ/giphy.gif" width="25"> How to reach me
 
 <p align="center">
 	<a href="mailto:ulkiobal@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	&emsp;
 	<a href="https://github.com/csanchezarisa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/cristobal-sanchez-arisa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	&emsp;
 	<a href="https://www.instagram.com/ulkiobal/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	&emsp;
 	<a href="https://twitter.com/ulkiobal"><img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
