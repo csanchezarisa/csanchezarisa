@@ -123,6 +123,10 @@
 	<a href="https://swagger.io/" target="_blank">
 		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white">
 	</a>
+	&emsp;
+	<a href="https://swagger.io/" target="_blank">
+		<img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
+	</a>
 </p>
 
 ### <img src="https://media.giphy.com/media/d9AC9cKuNu165UxNtj/giphy.gif" width="20"> IDEs
@@ -165,6 +169,14 @@
 	</a>
 </p>
 
+
+## <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="25"> GitHub stats
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=csanchezarisa&show_icons=true&locale=en&layout=compact&theme=dark " alt="csanchezarisa stats" />
+	&emsp;
+	<img src="https://github-readme-stats.vercel.app/api?username=csanchezarisa&show_icons=true&locale=en&theme=dark" alt="csanchezarisa stats" width="410" />
+</p>
 
 ## <img src="https://media.giphy.com/media/RlwnePSV0sdjC5pLoJ/giphy.gif" width="25"> How to reach me
 
