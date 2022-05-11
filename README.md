@@ -120,9 +120,49 @@
     		<img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white">
   	</a>
 	&emsp;
-   	<a href="https://swagger.io/" target="_blank">
-    		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white">
-  	</a>
+	<a href="https://swagger.io/" target="_blank">
+		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white">
+	</a>
+</p>
+
+### <img src="https://media.giphy.com/media/d9AC9cKuNu165UxNtj/giphy.gif" width="20"> IDEs
+
+<p align="center">
+	<a href="https://code.visualstudio.com/" target="_blank">
+		<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
+	</a>
+	&emsp;
+	<a href="https://visualstudio.microsoft.com/" target="_blank">
+		<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
+	</a>
+	&emsp;
+	<a href="https://www.eclipse.org/ide/" target="_blank">
+		<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=eclipse&logoColor=white">
+	</a>
+	&emsp;
+	<a href="https://www.jetbrains.com/idea/" target="_blank">
+		<img alt="IntellijIDEA" src="https://img.shields.io/badge/IntellijIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
+	</a>
+	&emsp;
+	<a href="https://developer.android.com/studio" target="_blank">
+		<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white">
+	</a>
+</p>
+
+### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="25"> Operating Systems
+
+<p align="center">
+	<a href="https://www.android.com/" target="_blank">
+		<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=android&logoColor=white">
+	</a>
+	&emsp;
+	<a href="https://www.linux.org/" target="_blank">
+		<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
+	</a>
+	&emsp;
+	<a href="https://www.microsoft.com/" target="_blank">
+		<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white">
+	</a>
 </p>
 
 
