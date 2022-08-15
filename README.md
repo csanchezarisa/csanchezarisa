@@ -111,7 +111,7 @@
 ## <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="25"> GitHub stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=csanchezarisa&show_icons=true&locale=en&layout=compact&theme=dark " alt="csanchezarisa stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=csanchezarisa&show_icons=true&locale=en&layout=compact&theme=dark" alt="csanchezarisa stats" />
 	&emsp;
 	<img src="https://github-readme-stats.vercel.app/api?username=csanchezarisa&show_icons=true&locale=en&theme=dark" alt="csanchezarisa stats" width="410" />
 </p>
