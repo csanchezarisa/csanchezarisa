@@ -119,7 +119,7 @@
 ## <img src="https://media.giphy.com/media/RlwnePSV0sdjC5pLoJ/giphy.gif" width="25"> How to reach me
 
 <p align="center">
-	<a href="mailto:ulkiobal@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:csanchezarisa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
 	<a href="https://github.com/csanchezarisa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 	&emsp;
