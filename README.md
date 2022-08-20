@@ -40,6 +40,8 @@
 	&emsp;
 	<a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=white"></a>
 	&emsp;
+	<a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?style=flat&logo=flask&logoColor=white"></a>
+	&emsp;
 	<a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=flat&logo=express&logoColor=white"></a>
 	&emsp;
 	<a href="https://maven.apache.org/" target="_blank"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=Apache%20Maven&logoColor=white"></a>
@@ -49,6 +51,9 @@
 
 <p align="center">
 	<a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=flat&logo=angular&logoColor=white"></a>
+	&emsp;
+	<a href="https://es.reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DBFB.svg?style=flat&logo=react&logoColor=black"></a>
+	&emsp;
 	&emsp;
 	<a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"></a>
 	&emsp;
